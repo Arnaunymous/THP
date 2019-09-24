@@ -1,0 +1,51 @@
+
+.google {margin: 10px}
+
+.haut-droit 
+{	width: 100%;
+	border: 4px green solid;
+	display: flex;
+		justify-content: flex-end;}
+.gmail {border: 2px green dotted;}
+.image {border: 2px green dashed;}
+.compte {border: 2px green double;}
+.app {border: 2px green groove;}
+
+.milieu 
+{	width: 100%;
+	border: 4px maroon solid;
+	margin: auto;
+	display: flex;
+		flex-direction: column;
+		align-items: center;}
+.logo {border: 2px maroon dotted;}
+.barre {border: 2px maroon inset}
+.bouton {border: 2px maroon dashed; display: flex; flex-direction: row;}
+.bouton-recherche {border: 2px maroon double; margin: 10px}
+.chance {border: 2px maroon groove; margin: 10px}
+
+.pays 
+{	width: 100%;
+	border: 4px teal solid;
+	display: flex;
+		justify-content: flex-start;}
+
+.bas-gauche 
+{	width: 50%;
+	border: 4px navy solid;
+	display: flex;
+		justify-content: flex-start;}
+.pub {border: 2px navy dotted;}
+.entreprise {border: 2px navy dashed;}
+.propos {border: 2px navy double;}
+.comment {border: 2px navy groove;}
+
+.bas-droit 
+{	width: 50%;
+	border: 4px purple solid;
+	display: flex;
+		justify-content: flex-end;}
+.info {border: 2px purple dotted;}
+.condi {border: 2px purple dashed;}
+.confi {border: 2px purple double;}
+.para {border: 2px purple groove;}
